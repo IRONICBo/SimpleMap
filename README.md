@@ -2,18 +2,28 @@
 A BaiduMap SDK android demo program.
 
 ### Main Pages
-- Index page
+- Index
 ![index](imgs/index.png)
 
-- Login/Register operation
+- Login/Register Operation
 ![login](imgs/login.jpg)
 
-- Location operation
+- Location Operation
 ![location](imgs/location.jpg)
 
-- Map operation
+- Map Operation
 ![map](imgs/map.jpg)
 
+Addition Pages
+
+- Register
+![map](imgs/register.jpg)
+
+- City Location
+![map](imgs/city_location.jpg)
+
+- Distance Calculation
+![map](imgs/distance_calculation.jpg)
 
 ### Reference
 
